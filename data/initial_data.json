@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "template_image": "/square.png",
+    "title": {
+      "content": "Unlock Big Savings Today!",
+      "style": {
+        "position": "absolute",
+        "top": "5%",
+        "left": "50%",
+        "transform": "translateX(-50%)",
+        "width": "90%",
+        "fontSize": "6cqw",
+        "textAlign": "center",
+        "fontWeight": 900,
+        "color": "white",
+        "lineHeight": "1.2"
+      }
+    },
+    "cta": {
+      "content": "Shop Now!",
+      "style": {
+        "position": "absolute",
+        "top": "85%",
+        "left": "15%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "color": "black"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1627384113710-424c9181ebbb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "style": {
+        "position": "absolute",
+        "top": "43%",
+        "left": "14.15%",
+        "width": "71.6%",
+        "height": "42%"
+      }
+    },
+    "description": {
+      "content": "Shop our exclusive deals and get up to 50% off on your favorite items. Limited time offer – don’t miss out!",
+      "style": {
+        "position": "absolute",
+        "top": "18%",
+        "left": "50%",
+        "transform": "translateX(-50%)",
+        "width": "70%",
+        "fontSize": "3cqw",
+        "textAlign": "center",
+        "color": "rgb(255 255 255 / 0.8)"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "template_image": "/square-1.png",
+    "title": {
+      "content": "Transform Your Home Today!",
+      "style": {
+        "position": "absolute",
+        "top": "5%",
+        "left": "5%",
+        "width": "60%",
+        "fontSize": "7cqw",
+        "fontWeight": 900,
+        "color": "#ffaa08"
+      }
+    },
+    "cta": {
+      "content": "Shop Now & Redefine Your Space!",
+      "style": {
+        "position": "absolute",
+        "top": "85%",
+        "left": "5%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "background": "rgba(255, 255, 255, 0.8)",
+        "color": "#feac0b",
+        "padding": "5px 10px",
+        "borderRadius": "999px"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG9tZSUyMGRlY29yJTIweWVsbG93fGVufDB8fDB8fHwy",
+      "style": {
+        "overflow": "hidden",
+        "borderRadius": "999px",
+        "position": "absolute",
+        "top": "37.8%",
+        "left": "48%",
+        "width": "69%",
+        "aspectRatio": "1 / 1"
+      }
+    },
+    "description": {
+      "content": "Discover a world of possibilities with our exclusive home decor collection. Elevate your space with styles that suit your taste",
+      "style": {
+        "position": "absolute",
+        "top": "30%",
+        "left": "5%",
+        "width": "65%",
+        "fontSize": "3cqw",
+        "color": "#333333"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "template_image": "/square-2.png",
+    "title": {
+      "content": "Achieve Your Fitness Goals",
+      "style": {
+        "textAlign": "center",
+        "transform": "translateX(-50%)",
+        "position": "absolute",
+        "top": "10%",
+        "left": "50%",
+        "width": "60%",
+        "fontSize": "7cqw",
+        "fontWeight": 900,
+        "color": "white",
+        "lineHeight": "1.2"
+      }
+    },
+    "cta": {
+      "content": "Sign Up & Get Fit Now!",
+      "style": {
+        "position": "absolute",
+        "top": "85%",
+        "right": "5%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "background": "#44caf5",
+        "color": "white",
+        "padding": "5px 10px",
+        "borderRadius": "5px"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1541694458248-5aa2101c77df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGZpdG5lc3N8ZW58MHx8MHx8fDI%3D",
+      "style": {
+        "overflow": "hidden",
+        "borderRadius": "999px",
+        "position": "absolute",
+        "top": "46.9%",
+        "left": "5.9%",
+        "width": "46%",
+        "aspectRatio": "1 / 1"
+      }
+    },
+    "description": {
+      "content": "Join our community and access top-notch workout plans, nutrition guides, and expert advice. Your fitness journey starts here.",
+      "style": {
+        "textAlign": "right",
+        "position": "absolute",
+        "top": "35%",
+        "right": "5%",
+        "width": "65%",
+        "fontSize": "2.5cqw",
+        "color": "#0982a9",
+        "fontWeight": 600
+      }
+    }
+  },
+  {
+    "id": 4,
+    "template_image": "/square-3.png",
+    "title": {
+      "content": "Savor the Flavor",
+      "style": {
+        "position": "absolute",
+        "top": "6%",
+        "left": "5%",
+        "width": "50%",
+        "fontSize": "8.5cqw",
+        "fontWeight": 900,
+        "color": "white",
+        "lineHeight": "1.2"
+      }
+    },
+    "cta": {
+      "content": "Taste the Difference & Order Today!",
+      "style": {
+        "position": "absolute",
+        "bottom": "4%",
+        "left": "5%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "background": "#b9285c",
+        "color": "white",
+        "padding": "5px 10px",
+        "borderRadius": "5px"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGJ1cmdlcnxlbnwwfHwwfHx8Mg%3D%3D",
+      "style": {
+        "overflow": "hidden",
+        "borderRadius": "999px",
+        "position": "absolute",
+        "top": "5%",
+        "right": "-30%",
+        "width": "80%",
+        "aspectRatio": "1 / 1"
+      }
+    },
+    "description": {
+      "content": " Indulge in gourmet treats and unique culinary delights from around the world. Perfect for food lovers and adventurous palates.",
+      "style": {
+        "position": "absolute",
+        "top": "38%",
+        "left": "5%",
+        "width": "48%",
+        "fontSize": "2.6cqw",
+        "color": "white",
+        "fontWeight": 500
+      }
+    }
+  },
+  {
+    "id": 5,
+    "template_image": "/square-4.png",
+    "title": {
+      "content": "Elevate Your Style!",
+      "style": {
+        "position": "absolute",
+        "top": "6%",
+        "left": "5%",
+        "width": "50%",
+        "fontSize": "8.5cqw",
+        "fontWeight": 900,
+        "color": "white",
+        "lineHeight": "1.2"
+      }
+    },
+    "cta": {
+      "content": "Discover Now & Upgrade Your Wardrobe!",
+      "style": {
+        "position": "absolute",
+        "bottom": "14%",
+        "left": "5%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "background": "white",
+        "color": "black",
+        "padding": "5px 10px",
+        "borderRadius": "5px"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZhc2hpb258ZW58MHx8MHx8fDI%3D",
+      "style": {
+        "overflow": "hidden",
+        "position": "absolute",
+        "top": "0%",
+        "left": "0%",
+        "width": "100%",
+        "aspectRatio": "1 / 1",
+        "zIndex": -1
+      }
+    },
+    "description": {
+      "content": "Explore our new collection of fashion-forward clothing and accessories. Find the perfect pieces to express your individuality.",
+      "style": {
+        "position": "absolute",
+        "top": "38%",
+        "left": "5%",
+        "width": "65%",
+        "fontSize": "3cqw",
+        "color": "white",
+        "fontWeight": 500
+      }
+    }
+  },
+  {
+    "id": 6,
+    "template_image": "/square-5.png",
+    "title": {
+      "content": "Elevate Your Style!",
+      "style": {
+        "position": "absolute",
+        "top": "6%",
+        "left": "5%",
+        "width": "50%",
+        "fontSize": "8.5cqw",
+        "fontWeight": 900,
+        "color": "white",
+        "lineHeight": "1.2"
+      }
+    },
+    "cta": {
+      "content": "Discover Now & Upgrade Your Wardrobe!",
+      "style": {
+        "position": "absolute",
+        "bottom": "14%",
+        "left": "5%",
+        "fontSize": "3cqw",
+        "fontWeight": 700,
+        "background": "white",
+        "color": "black",
+        "padding": "5px 10px",
+        "borderRadius": "5px"
+      }
+    },
+    "image": {
+      "url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZhc2hpb258ZW58MHx8MHx8fDI%3D",
+      "style": {
+        "overflow": "hidden",
+        "position": "absolute",
+        "top": "0%",
+        "left": "0%",
+        "width": "100%",
+        "aspectRatio": "1 / 1",
+        "zIndex": -1
+      }
+    },
+    "description": {
+      "content": "Explore our new collection of fashion-forward clothing and accessories. Find the perfect pieces to express your individuality.",
+      "style": {
+        "position": "absolute",
+        "top": "38%",
+        "left": "5%",
+        "width": "65%",
+        "fontSize": "3cqw",
+        "color": "white",
+        "fontWeight": 500
+      }
+    }
+  }
+]
